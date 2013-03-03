@@ -1,0 +1,18 @@
+{
+    "name": "danlex/bstexample",
+    "type": "library",
+    "description": "Example using danlex/bst library.",
+    "keywords": ["library", "bst", "avl", "selfbalanced", "tree"],
+    "homepage": "https://github.com/danlex/bstexample",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandru Dan",
+            "email": "dan_lex@yahoo.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "danlex/bst": "dev-master"
+    }
+}

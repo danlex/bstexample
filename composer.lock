@@ -1,0 +1,50 @@
+{
+    "hash": "acbec097658d47d0fe32df04442f0268",
+    "packages": [
+        {
+            "name": "danlex/bst",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/danlex/bst.git",
+                "reference": "b724fa5f6a234e28439bfaec510f96c697a144b9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/danlex/bst/zipball/b724fa5f6a234e28439bfaec510f96c697a144b9",
+                "reference": "b724fa5f6a234e28439bfaec510f96c697a144b9",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "bst": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Alexandru Dan",
+                    "email": "dan_lex@yahoo.com"
+                }
+            ],
+            "description": "Self balancing binary search tree library",
+            "homepage": "https://github.com/danlex/bst",
+            "time": "2013-03-02 23:35:48"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "danlex/bst": 20
+    }
+}
