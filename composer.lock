@@ -1,5 +1,5 @@
 {
-    "hash": "acbec097658d47d0fe32df04442f0268",
+    "hash": "6c0d6612afbd75a2bfe011df928fb3a2",
     "packages": [
         {
             "name": "danlex/bst",
@@ -7,12 +7,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/danlex/bst.git",
-                "reference": "b724fa5f6a234e28439bfaec510f96c697a144b9"
+                "reference": "b072eeac2236dc0a6c285fb6fc53f712838e20fe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/danlex/bst/zipball/b724fa5f6a234e28439bfaec510f96c697a144b9",
-                "reference": "b724fa5f6a234e28439bfaec510f96c697a144b9",
+                "url": "https://api.github.com/repos/danlex/bst/zipball/b072eeac2236dc0a6c285fb6fc53f712838e20fe",
+                "reference": "b072eeac2236dc0a6c285fb6fc53f712838e20fe",
                 "shasum": ""
             },
             "require": {
@@ -21,7 +21,7 @@
             "type": "library",
             "autoload": {
                 "psr-0": {
-                    "bst": ""
+                    "danlex\bst": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -36,7 +36,7 @@
             ],
             "description": "Self balancing binary search tree library",
             "homepage": "https://github.com/danlex/bst",
-            "time": "2013-03-02 23:35:48"
+            "time": "2013-03-03 09:21:29"
         }
     ],
     "packages-dev": null,

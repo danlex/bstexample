@@ -14,5 +14,10 @@
     "require": {
         "php": ">=5.3.3",
         "danlex/bst": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "danlex\\bst": "vendor"
+        }
     }
 }
