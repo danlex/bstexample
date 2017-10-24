@@ -1,2 +1,2 @@
-bstexample
+bst example
 ==========
